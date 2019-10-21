@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Pennysplit",
+    "image": "pennysplit.png",
+    "description": "A very simple, no email, no registration group expense splitting app. Just enter the details, split and share.",
+    "labels": [
+      {"icon": "angular", "text": "AngularJS"},
+      {"icon": "php", "text": "Slim PHP"}
+    ],
+    "url": "http://apps.himanshuchoudhary.live/pennysplit",
+    "git": null
+  },
+  {
+    "title": "Photo Mosaic",
+    "image": "photo-mosaic.png",
+    "description": "Python program to generate a image by replacing the pixels of the picture with smaller images(mosaic).",
+    "labels": [
+      {"icon": "python", "text": "Python"},
+      {"icon": "image", "text": "CV"}
+    ],
+    "url": null,
+    "git": "https://github.com/choudharyhimanshu/photo-mosaic"
+  },
+  {
+    "title": "Rating Generation and Auto Summarization",
+    "image": "rating-pred.png",
+    "description": "Rating Generation and Auto-summarization using NLP techniques on Amazon Fine Food Reviews dataset(Kaggle).",
+    "labels": [
+      {"icon": "python", "text": "Python"},
+      {"icon": "align left", "text": "NLP"}
+    ],
+    "url": "https://www.kaggle.com/himnshu/rating-score-prediction",
+    "git": "https://github.com/choudharyhimanshu/rating-prediction-and-auto-summarization/"
+  },
+  {
+    "title": "Twitter on Map",
+    "image": "twitter-on-map.png",
+    "description": "An android app to visualize twitter data on Google Maps with features like heat map and location based tag cloud.",
+    "labels": [
+      {"icon": "twitter", "text": "Twitter API"},
+      {"icon": "android", "text": "Android"},
+      {"icon": "map", "text": "Google Maps"}
+    ],
+    "url": null,
+    "git": "https://github.com/choudharyhimanshu/twitter-on-map"
+  },
+  {
+    "title": "Course Helper",
+    "image": "course-helper.png",
+    "description": "To help students of IITK in choosing the right courses with recommendations during registration in order to optimally complete their degree.",
+    "labels": [
+      {"icon": "android", "text": "Android"},
+      {"icon": "python", "text": "Django"}
+    ],
+    "url": null,
+    "git": "https://bitbucket.org/account/user/softwarearch/projects/CH"
+  },
+  {
+    "title": "Blog Scraper",
+    "image": "blog-scraper.jpg",
+    "description": "Tool to scrape useful data from a blog or blogger website (mainly focused on travel blogs).",
+    "labels": [
+      {"icon": "sitemap", "text": "Scrapyrt"},
+      {"icon": "python", "text": "Python"}
+    ],
+    "url": "http://blog-scraper-api.herokuapp.com/crawl.json?spider_name=blogmeta&url=http://bucketlistjourney.net/2016/05/things-not-to-do-when-writing-a-book/",
+    "git": "https://github.com/choudharyhimanshu/blog-scraper"
+  },
+  {
+    "title": "Twitter Sentiment Analysis",
+    "image": "senti-tweets.png",
+    "description": "Analyzed sentiment of tweets as positive, negative or neutral with data of around 50 thousand tweets from India.",
+    "labels": [
+      {"icon": "twitter", "text": "Twitter API"},
+      {"icon": "map", "text": "CartoDB"}
+    ],
+    "url": "https://hc12298.carto.com/viz/812fd350-e8de-11e4-9703-0e853d047bba/public_map",
+    "git": "https://github.com/choudharyhimanshu/twitter-sentiment-analysis"
+  }
+]
